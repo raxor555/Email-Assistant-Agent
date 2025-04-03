@@ -1,4 +1,4 @@
-# 🚀 AI Email Assistant – Automate Your Emails with AI 📧🤖  
+# 🚀 AI Email Assistant – Automate Your Emails with AI 📧
 
 Tired of **typing emails** and **clicking send** manually? This AI-powered **Email Assistant** automates your email workflow—**just tell it what to do, and it handles the rest!**  
 
